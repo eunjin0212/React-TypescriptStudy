@@ -17,3 +17,6 @@
 > _or_
 >
 > yarn add typescript @types/node @types/react @types/react-dom @types/jest
+
+짜잔~
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59821075/103869086-2f9a5400-510d-11eb-9816-583aa8b77691.gif)
