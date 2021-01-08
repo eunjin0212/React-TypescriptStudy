@@ -2,7 +2,7 @@
 
 - Initialize project using Create React App
 
-## 타입스크립트 설치하기
+## 타입스크립트 React 설치하기
 
 > npx create-react-app my-app --template typescript
 >
@@ -19,4 +19,8 @@
 > yarn add typescript @types/node @types/react @types/react-dom @types/jest
 
 짜잔~
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59821075/103869086-2f9a5400-510d-11eb-9816-583aa8b77691.gif)
+
+아니면 그냥 파일에 .ts 붙이기
+_혹은 npm i -g typescript_
