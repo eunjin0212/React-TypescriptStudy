@@ -22,5 +22,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59821075/103869086-2f9a5400-510d-11eb-9816-583aa8b77691.gif)
 
-아니면 그냥 파일에 .ts 붙이기
+위 방법은 React Ts 만들기
+
+_그냥 파일에 .ts 붙이기_
 _혹은 npm i -g typescript_
