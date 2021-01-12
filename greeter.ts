@@ -1,6 +1,12 @@
-function greeter(person: string) {
-    return 'Hello ' + person
+interface Person {
+    firstName: string;
+    lastName: string;
 }
 
-let user = [0, 1, 2]
-console.log(greeter(user))
+function greeter(person: Person) {
+    return "Hello, " + person.firstName + " " + person.lastName;
+}
+let user = { firstName: "Kim", lastName: "jin" };
+
+console.log(greeter(user));
+
