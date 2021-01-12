@@ -24,5 +24,5 @@
 
 위 방법은 React Ts 만들기
 
-_그냥 파일에 .ts 붙이기_
+_그냥 파일에 .ts 붙이기_ > _터미널에 tsc greeter.ts_ > _같은 내용의 자바스크립트 파일이 생긴다. ts 파일이 변할 때 tsc 해주면 js 파일이 변한다._
 _혹은 npm i -g typescript_

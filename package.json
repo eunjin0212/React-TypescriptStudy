@@ -1,0 +1,19 @@
+{
+  "name": "typescriptstudy",
+  "version": "1.0.0",
+  "description": "- Initialize project using Create React App",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunjin0212/Typescript-Study.git"
+  },
+  "author": "eunjin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eunjin0212/Typescript-Study/issues"
+  },
+  "homepage": "https://github.com/eunjin0212/Typescript-Study#readme"
+}
