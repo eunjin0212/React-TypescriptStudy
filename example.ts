@@ -1,15 +1,12 @@
-class Animal {
-    move(distanceInMeters: number = 0) {
-        console.log(`Animal moved ${distanceInMeters}m.`);
-    }
+interface Person {
+    firstName: string;
+    lastName: string;
 }
-
-class Dog extends Animal {
-    bark() {
-        console.log('Woof! Woof!')
-    }
+ 
+function greeter(person: Person) {
+    return "Hello, " + person.firstName + " " + person.lastName;
 }
-const dog = new Dog();
-dog.bark();
-dog.move(10);
-dog.bark();
+ 
+let user = { firstName: "Jane", lastName: "User" };
+ 
+document.body.textContent = greeter(user);
